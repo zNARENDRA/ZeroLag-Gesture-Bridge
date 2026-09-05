@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ZeroLag Gestures</string>
+    <string name="accessibility_service_description">Enables instant home, back, and recents actions to bypass OxygenOS gesture input delay on Niagara Launcher.</string>
+    <string name="notification_channel_name">Gesture Overlay Service</string>
+    <string name="notification_title">ZeroLag Gesture Bridge is Active</string>
+    <string name="notification_text">Intercepting bottom gestures for instant touch responsiveness.</string>
+
+    <string name="status_title">Gesture Bridge Status</string>
+    <string name="status_overlay_permission">Overlay Permission (Required)</string>
+    <string name="status_accessibility_permission">Accessibility Service (Recommended)</string>
+    <string name="action_grant_overlay">Grant Overlay Permission</string>
+    <string name="action_grant_accessibility">Enable Accessibility</string>
+    <string name="action_toggle_service">Start ZeroLag Service</string>
+    <string name="action_stop_service">Stop ZeroLag Service</string>
+
+    <string name="settings_title">Gesture Settings</string>
+    <string name="bar_height_label">Gesture Bar Height</string>
+    <string name="bar_width_label">Gesture Bar Width (%)</string>
+    <string name="bar_visibility_label">Show Visual Gesture Pill</string>
+    <string name="haptic_feedback_label">Haptic Vibration on Gesture</string>
+    <string name="niagara_direct_label">Direct Niagara Launch (Zero-Animation)</string>
+    <string name="oneplus_guide_title">OxygenOS 16 Optimization Tips</string>
+</resources>
